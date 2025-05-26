@@ -9,7 +9,7 @@
     .a{
         color:BLACK;
         font-size: 15px;
-        background-color: #FFCDD2;
+        background-color: #6495ED;
         border-bottom: 0.3px solid black;
         border-top: 0.3px solid black;
 		text-align: center;
@@ -17,7 +17,7 @@
     .b{
         color:black;
         font-size:15px;
-        background-color: #F48FB1;
+        background-color: #6F8FAF;
         border-bottom: 0.3px solid black;
         border-top: 0.3px solid black;
 		text-align: center;
@@ -25,7 +25,7 @@
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
-  background-color: #f4f4f4;
+  background-color: #4682B4;
   color: #333;
   margin: 0;
   padding: 0;
